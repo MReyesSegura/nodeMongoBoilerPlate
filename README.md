@@ -15,15 +15,14 @@ Feel free to leverage this boilerplate as a solid foundation for your projects. 
 
 **Features:**
 
-**Node.js with TypeScript**
+**Node.js with TypeScript:**
   Leverage TypeScript's productivity and maintainability benefits for your Node.js applications.
 
-**MongoDB Integration**
+**MongoDB Integration:**
   Seamlessly connect and interact with MongoDB, a popular NoSQL database, using provided configurations.
-  JWT Middleware:
 
-**JSON WEB TOKEN** 
+**JSON WEB TOKEN:** 
   Implement secure user authentication with the built-in JWT middleware. Customize it to suit your application's requirements.
 
-**Custom Error Handler**
+**Custom Error Handler:**
   Gracefully handle errors with the included custom error handler. Enhance the user experience and simplify debugging.

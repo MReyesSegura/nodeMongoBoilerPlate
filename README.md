@@ -6,6 +6,13 @@ This repository provides a robust boilerplate for establishing a server using No
 
 Feel free to leverage this boilerplate as a solid foundation for your projects. Whether you're initiating a new web application, API server, or any Node.js project involving MongoDB, this template is designed to streamline your initial setup.
 
+
+**Installation:**
+1. Run `npm install` to install dependencies.
+2. Run `npm run watch` to compile TypeScript and watch for changes.
+3. Run `npm start` to start the server.
+
+
 **Features:**
 
 **Node.js with TypeScript**
